@@ -1,0 +1,8 @@
+# We need to build a model that is able to take in a csv file/ data input of health parameters such as blood glucose. insulin, pressure to be able to predict whether 
+the individual has diabettis or not. 
+
+# The product needs to be able to have an accuracy of raning from 75%- 85% to be viable
+# The product needs to be self trained and needs to be able to produce results based on both test and trained data sets
+
+# The dataframe needs to be processed to be able to be read by the machine learning algorithm used so that there is standardization in the values recorded
+for the patients
